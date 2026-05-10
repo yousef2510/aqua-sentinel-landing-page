@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "Aqua Sentinel | Smart Monitoring for a Safer Future",
+    "description": "Aqua Sentinel - combining technology and innovation to create smarter, safer water monitoring solutions."
+  },
+  "hero": {
+    "brandPart1": "Aqua",
+    "brandPart2": "Sentinel",
+    "tagline": "Smart monitoring for a safer future",
+    "welcome": {
+      "greeting": "Welcome, esteemed mentors and honored guests",
+      "thanks": "Thank you for exploring our project"
+    }
+  },
+  "welcome": {
+    "badge": "Welcome Message",
+    "headingPrefix": "Welcome to",
+    "headingAccent": "Aqua Sentinel",
+    "message": {
+      "prefix": "Thank you for your valuable time exploring our project. Our mission is to combine technology and innovation to create",
+      "strong1": "smarter",
+      "and": "and",
+      "strong2": "safer"
+    }
+  },
+  "features": {
+    "mission": { "title": "Our Mission", "desc": "Building smarter and safer monitoring solutions" },
+    "technology": { "title": "Technology", "desc": "A technology system based on real-time sensing and intelligent analysis to ensure immediate response." },
+    "innovation": { "title": "Innovation", "desc": "Leading the future of water safety" }
+  },
+  "team": {
+    "badge": "The Team",
+    "heading": "Meet Aqua Sentinel",
+    "description": "A dedicated team of innovators working together to create smarter water monitoring solutions.",
+    "caption": "\"Together, we make waves of change.\""
+  },
+  "qr": {
+    "badge": "Exclusive Access",
+    "unlockTitlePrefix": "You've Unlocked an",
+    "unlockTitleAccent": "Exclusive Message",
+    "unlockSubtitle": "from Team Aqua Sentinel",
+    "thankYou": "We are honored to have you explore our project. Your time and attention mean the world to us. Together, we can build a smarter and safer future through innovation."
+  },
+  "footer": {
+    "teamName": "Aqua Sentinel",
+    "tagline": "Smart Monitoring for a Safer Future",
+    "thanks": "Thank you for visiting",
+    "builtWith": "Built with innovation, passion, and dedication.",
+    "copyright": "© {year} Aqua Sentinel."
+  },
+  "social": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter",
+    "email": "Email"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية",
+    "toggleLabel": "Switch language"
+  }
+}
